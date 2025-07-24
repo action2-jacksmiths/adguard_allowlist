@@ -1,1 +1,2 @@
 ||xhamster.com^
+||sr-client-cfg.amplitude.com^
