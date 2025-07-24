@@ -1,3 +1,2 @@
 ||xhamster.com^
-||sr-client-cfg.amplitude.com^
-||sr-client-cfg.amplitude.com^
+||doppiocdn.org^
